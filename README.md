@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Roy , a 21 yo programmer from Israel.
+- 👋 Hi, my name is Roy , a 24 yo programmer from Israel.
 - 🌱 I’m an Embedded Software Developer.
 - 📫 Contact me  via ✨LinkedIn✨ : https://www.linkedin.com/in/roy-carter-2895561b0/
     
